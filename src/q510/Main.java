@@ -7,5 +7,11 @@ public class Main{
         b = 100;
         System.out.println(a);
         System.out.println(b);
+        
+        
+        a = 99;
+        System.out.println(a);
+        System.out.println(b);
+        
     }
 }
