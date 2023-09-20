@@ -14,5 +14,13 @@ public class Main {
 		System.out.println(b);
 		System.out.println(c);
 		System.out.printf("%.6f\n", c);
+		
+		
+		/*
+		 * %d : 정수
+		 * %f : 실수
+		 * %s : 문자열
+		 * %c : 문자
+		 */
 	}
 }
