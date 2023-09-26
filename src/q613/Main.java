@@ -44,8 +44,8 @@ public class Main {
 		String name = sc.next();
 		String schoolName = sc.next();
 		int grade = sc.nextInt();
-
 		School a = new School(name, schoolName, grade);
+		
 		a.print();
 		sc.close();
 
